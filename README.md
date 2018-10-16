@@ -3,6 +3,9 @@
 I have made this sample to support you to try out new en stuff and learn more. It is not for production is only for training and trying out. 
 Instead of to build and environment each time via the UI. Then save time by using the basic foundation to setup what is need to trying out and learn.
 
+**New**
+Cloud-Init has been add. You can use it for installation of application, configure firewall ect. Read more about it https://cloud-init.io/
+
 ## Overview of the simple foundation
 The foundation have some basic component.
 * 1 Bastion Host (openssh)
